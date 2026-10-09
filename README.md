@@ -1,5 +1,13 @@
 # Eleven points with all taxicab distances different
 
+<!-- visual:start -->
+<p align="center"><img src="https://raw.githubusercontent.com/jvvk/jvvk/c7403d6bbbc7106e1780d8c34833854afcb0116f/assets/taxicab.svg" width="760" alt="taxicab-distances-eleven"></p>
+
+<p align="center"><b>Eleven lattice points whose 55 taxicab distances are exactly 1 to 55: the case n = 11 of an open question.</b></p>
+
+<p align="center"><sub><a href="https://github.com/jvvk/mathematics">all results</a></sub></p>
+<!-- visual:end -->
+
 Eleven lattice points whose 55 pairwise taxicab distances are exactly 1, 2, ..., 55.
 
 ![Eleven lattice points with taxicab distances 1 to 55](taxicab11.png)
